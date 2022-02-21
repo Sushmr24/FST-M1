@@ -25,12 +25,10 @@ public class Activity4 {
                     index  = j;
                 }
             }
-
             int temp = array[index];
             array[index] = array[i];
             array[i] = temp;
 
         }
-
     }
 }

@@ -20,5 +20,5 @@ public class Activity2 {
         {
             System.out.println("Sum of 10's in the array is either grater than or less than 30");
         }
-   }
+    }
 }

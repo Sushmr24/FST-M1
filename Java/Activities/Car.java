@@ -7,11 +7,11 @@ public class Car {
     int tyres;
     int doors;
 
-   Car()
-   {
-       tyres = 4;
-       doors = 4;
-   }
+    Car()
+    {
+        tyres = 4;
+        doors = 4;
+    }
     public void displayCharacteristics()
     {
         System.out.println(" Color : " + color +" transmission " +transmission +" make "+ make + " tyres "+ tyres +" doors "+ doors);
